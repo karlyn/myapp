@@ -1,3 +1,4 @@
+@signup
 Feature: Sign up
   In order to get access to protected sections of the site
   As a user

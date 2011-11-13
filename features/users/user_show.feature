@@ -1,3 +1,4 @@
+@showuser
 Feature: Show Users
   As a visitor to the website
   I want to see registered users listed on the homepage

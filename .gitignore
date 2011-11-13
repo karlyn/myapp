@@ -8,6 +8,9 @@
 # http://github.com/RailsApps/rails3-application-templates/issues
 #----------------------------------------------------------------------------
 
+# my private notes
+/knotes
+
 # bundler state
 /.bundle
 /vendor/bundle/
@@ -62,3 +65,4 @@ tmp/*
 
 # vim artifacts
 **.swp
+**~

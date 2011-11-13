@@ -1,6 +1,10 @@
+#
 require 'rbconfig'
+
 HOST_OS = RbConfig::CONFIG['host_os']
+
 source 'http://rubygems.org'
+
 gem 'rails', '3.1.0'
 gem 'sqlite3'
 group :assets do
